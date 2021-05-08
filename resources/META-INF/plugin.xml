@@ -1,0 +1,19 @@
+<idea-plugin>
+  <id>com.helloiamlukas.theme.peel</id>
+  <name>Peel / Xcode Dark Theme</name>
+  <version>1.0</version>
+  <vendor email="lukaskienzl@gmail.com" url="https://helloiamlukas.github.io">helloiamlukas</vendor>
+
+  <description><![CDATA[
+      Combination between <a href="https://github.com/daylerees/colour-schemes">Peel Theme by Dayle Rees</a> and <a href="https://github.com/antelle/intellij-xcode-dark-theme">Xcode-Dark UI Theme</a>.
+    ]]></description>
+
+  <idea-version since-build="173.0"/>
+
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="a65f23e8-7137-4e5e-a28f-56f428f9e1ed" path="/peel.theme.json"/>
+  </extensions>
+
+</idea-plugin>
