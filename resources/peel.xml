@@ -21,7 +21,7 @@
         <option name="FILESTATUS_addedOutside" value="629755" />
         <option name="FILESTATUS_changelistConflict" value="d5756c" />
         <option name="FILESTATUS_modifiedOutside" value="f4d370" />
-        <option name="GUTTER_BACKGROUND" value="23201c" />
+        <option name="GUTTER_BACKGROUND" value="252626" />
         <option name="INDENT_GUIDE" value="3c3e42" />
         <option name="LINE_NUMBERS_COLOR" value="888888" />
         <option name="METHOD_SEPARATORS_COLOR" value="4d4d4d" />
@@ -439,7 +439,7 @@
         <option name="DELETED_TEXT_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="f8f8f0" />
-                <option name="BACKGROUND" value="23201c" />
+                <option name="BACKGROUND" value="252626" />
                 <option name="EFFECT_COLOR" value="c3c3c3" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
@@ -988,7 +988,7 @@
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="edebe6" />
-                <option name="BACKGROUND" value="23201c" />
+                <option name="BACKGROUND" value="252626" />
                 <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
