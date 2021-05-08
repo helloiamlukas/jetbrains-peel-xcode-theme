@@ -317,6 +317,11 @@
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
+        <option name="DEFAULT_COMMA">
+            <value>
+                <option name="FOREGROUND" value="edebe6" />
+            </value>
+        </option>
         <option name="DEFAULT_CONSTANT">
             <value>
                 <option name="FOREGROUND" value="d3643b" />
@@ -395,6 +400,11 @@
         <option name="DEFAULT_OPERATION_SIGN">
             <value>
                 <option name="FOREGROUND" value="94c7b6" />
+            </value>
+        </option>
+        <option name="DEFAULT_SEMICOLON">
+            <value>
+                <option name="FOREGROUND" value="edebe6" />
             </value>
         </option>
         <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
